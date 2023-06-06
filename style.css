@@ -18,7 +18,7 @@ p, a, body  /*pode optar por colocar somente o "body", pois já indica que todo 
 }
 
 #hero{ 
-    wigth: 592px;
+    width: 592px;
     margin: auto;
 }
 
